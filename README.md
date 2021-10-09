@@ -9,7 +9,7 @@
 ### Github Statistics:
  <a href="https://github.com/adityaramadhani050">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=adityaramadhani050&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" alt="Adit's github stats" />
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=adityaramadhani050&layout=compact&langs_count=8&theme=algolia" alt="Adit's github top languages" />
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=adityaramadhani050&layout=compact&langs_count=2&theme=algolia" alt="Adit's github top languages" />
 </a>
   
 ### Connect with me:
