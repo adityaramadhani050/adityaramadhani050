@@ -1,4 +1,4 @@
-![Readme Github (4)](https://user-images.githubusercontent.com/73248007/120210144-15dce300-c24d-11eb-81fd-e72ee2aacfa8.png)
+![Readme Github (4)](https://raw.githubusercontent.com/adityaramadhani050/adityaramadhani050/main/banner-profile-01.jpg)
 
 ### Languages and Softwares:
 <code><img width="40px" src="https://img.icons8.com/color/48/000000/dart.png" title = "Dart"/></code>
